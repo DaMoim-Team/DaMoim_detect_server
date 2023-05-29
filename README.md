@@ -1,6 +1,6 @@
 
 
-
+## 📁 디렉토리 구조
 ```
 📦detect_server
  ┣ 📂cctvs                            - 샘플 input directory
