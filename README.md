@@ -30,5 +30,6 @@
  ┣ 📜subscribe.py                     - 영상 받기
  ┣ 📜time_range.py                    - 시간구간 체크
  ┣ 📜track_crop_damoim.py             - TRACKING + CROP
+ ┣ 📜YOLOv8_train.ipynb               - YOLOv8 전이학습 코드
  ┗ 📜yolo_damoim.py                   - YOLOv8
 ```
